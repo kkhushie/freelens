@@ -1,10 +1,10 @@
-# Freelens 🎬✨
+# Freelens
 
 Freelens is a beautiful, easy-to-use analytics dashboard designed for creative freelancers like video editors, graphic designers, and animators. It helps you track your projects, clients, and monthly goals in one gorgeous, dark-themed interface.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 * **Performance Dashboard**: See your monthly earnings, average project values, active clients count, and monthly target goal progress rings.
 * **Inspect Month Selector**: Easily filter your entire dashboard and deliverables history by any month to check past progress.
@@ -16,7 +16,7 @@ Freelens is a beautiful, easy-to-use analytics dashboard designed for creative f
 
 ---
 
-## ⚙️ How to Get Started
+## How to Get Started
 
 ### 1. Install Dependencies
 Run the following command in your terminal to install the project dependencies:
